@@ -13,10 +13,9 @@ dependencies = [
 ]
 keywords = ["optimizer", "deep learning", "physics-inspired", "gradient descent", "pytorch"]
 
-urls = { 
-  "Homepage" = "https://github.com/sandy1279/bouncing_decayer_optimizer", 
-  "Repository" = "https://github.com/sandy1279/bouncing_decayer_optimizer" 
-}
+[project.urls]
+Homepage = "https://github.com/sandy1279/bouncing_decayer_optimizer"
+Repository = "https://github.com/sandy1279/bouncing_decayer_optimizer"
 
 [build-system]
 requires = ["setuptools>=61.0"]

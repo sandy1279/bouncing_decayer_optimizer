@@ -1,6 +1,6 @@
 [project]
 name = "bouncing-decayer-optimizer"
-version = "0.1.1"
+version = "1.0.0"
 description = "A physics-inspired optimizer adding decaying oscillations to gradient descent"
 authors = [
     { name="Sanskar", email="sawanesanskar07@gmail.com" }

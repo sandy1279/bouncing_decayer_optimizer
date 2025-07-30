@@ -1,0 +1,18 @@
+[project]
+name = "bouncing-decayer-optimizer"
+version = "0.1.0"
+description = "A physics-inspired optimizer adding decaying oscillations to gradient descent"
+authors = [
+    { name="Sanskar", email="sawanesanskar07@gmail.com" }
+]
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+dependencies = [
+    "torch>=1.7"
+]
+keywords = ["optimizer", "deep learning", "physics-inspired", "gradient descent", "pytorch"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
